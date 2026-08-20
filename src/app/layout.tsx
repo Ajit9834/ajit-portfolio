@@ -36,7 +36,9 @@ export const metadata: Metadata = {
       "Full Stack Developer building modern, scalable web applications.",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
   },
 };
 
