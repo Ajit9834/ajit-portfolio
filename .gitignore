@@ -1,0 +1,84 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+coverage
+*.lcov
+.nyc_output
+
+# Next.js
+.next
+out
+dist
+build
+
+# Production
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Environment Variables (Sensitive)
+.env
+.env*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Database (Sensitive)
+*.db
+*.sqlite
+*.sqlite3
+.turso
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+
+# Local configuration files (Sensitive)
+.env.local
+.env.*.local
+config.local.js
+config.local.json
+
+# Secrets and Credentials (Sensitive)
+*.pem
+*.key
+*.cert
+*.p12
+secrets/
+credentials/
+*.secret
+
+# API Keys (Sensitive)
+.api-keys
+api-keys.json
+
+# AWS (Sensitive)
+.aws/
+aws-config.json
+
+# Backup files
+*.bak
+*.backup
+*.tmp
