@@ -6,34 +6,34 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://ajit.dev"),
   title: {
-    default: "Ajit Angad Zori | Full Stack Developer",
-    template: "%s | Ajit Angad Zori",
+    default: "Ajit Zori | Full Stack Engineer",
+    template: "%s | Ajit Zori",
   },
   description:
-    "Ajit Angad Zori — Full Stack Developer building modern, scalable web applications with React, Next.js, Node.js, Java, Python and AI technologies.",
+    "Ajit Zori — Full Stack Engineer building modern, scalable web applications with React, Next.js, Node.js, Java, Python and AI technologies.",
   keywords: [
-    "Ajit Angad Zori",
-    "Full Stack Developer",
+    "Ajit Zori",
+    "Full Stack Engineer",
     "Next.js",
     "React",
     "TypeScript",
     "Node.js",
-    "AI Developer",
+    "AI Engineer",
     "Portfolio",
   ],
-  authors: [{ name: "Ajit Angad Zori" }],
+  authors: [{ name: "Ajit Zori" }],
   openGraph: {
-    title: "Ajit Angad Zori | Full Stack Developer",
+    title: "Ajit Zori | Full Stack Engineer",
     description:
-      "Full Stack Developer building modern, scalable web applications with React, Next.js, Node.js, and AI.",
+      "Full Stack Engineer building modern, scalable web applications with React, Next.js, Node.js, and AI.",
     type: "website",
-    siteName: "Ajit Angad Zori",
+    siteName: "Ajit Zori",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ajit Angad Zori | Full Stack Developer",
+    title: "Ajit Zori | Full Stack Engineer",
     description:
-      "Full Stack Developer building modern, scalable web applications.",
+      "Full Stack Engineer building modern, scalable web applications.",
   },
   icons: {
     icon: "/icon.png",
